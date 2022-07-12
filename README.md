@@ -15,7 +15,7 @@
 
 hi, i'm [Cem Enes Karakus](https://www.linkedin.com/in/karakuscemenes/), a passionate self-taught front-end web developer from Turkey. i've been interested in computers since i was little, so until now i've done a little bit of computer work and now i'm trying to be a front-end developer.
   
-- 💼 any freelance work? do reach, [email](karakuscemenes@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:karakuscemenes@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 
