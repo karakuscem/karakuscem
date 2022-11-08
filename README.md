@@ -13,12 +13,18 @@
 
 <br />
 
-hi, i'm [Cem Enes Karakus](https://www.linkedin.com/in/karakuscemenes/), a passionate self-taught front-end web developer from Turkey. i've been interested in computers since i was little, so until now i've using computer just for gaming and now i'm trying to be a front-end developer.
+hi, i'm [Cem Enes Karakus](https://www.linkedin.com/in/karakuscemenes/), a passionate developer from Turkey. i've been interested in computers since i was little, so until now i've using computer just for gaming and now i'm trying to learn programming. i'm also student of 42Istanbul which is a programming school that has intense curriculum
   
 - 💼 any freelance work? do reach, [email](mailto:karakuscemenes@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
-
-
+- 🤖 technologies that i used/using;
+  
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 📈 my github stats
 
