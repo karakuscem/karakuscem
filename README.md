@@ -26,6 +26,10 @@ hi, i'm [Cem Enes Karakus](https://www.linkedin.com/in/karakuscemenes/), a passi
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+📈 42 Stats
+
+[![ckarakus's 42 stats](https://badge.mediaplus.ma/greenbinary/ckarakus?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karakuscem&show_icons=true&theme=tokyonight" alt="karakuscem" />
