@@ -28,7 +28,7 @@ hi, i'm [Cem Enes Karakus](https://www.linkedin.com/in/karakuscemenes/), a passi
 
 📈 42 Stats
 
-[![ckarakus's 42 stats](https://badge.mediaplus.ma/greenbinary/ckarakus?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<p align="center">[![ckarakus's 42 stats](https://badge.mediaplus.ma/greenbinary/ckarakus?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 📈 my github stats
 
