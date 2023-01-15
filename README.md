@@ -32,7 +32,7 @@ hi, i'm [Cem Enes Karakus](https://www.linkedin.com/in/karakuscemenes/), a passi
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karakuscem&show_icons=true&theme=tokyonight" alt="karakuscem" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=karakuscem&show_icons=true&theme=transparent"></p>
 
 
 
