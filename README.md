@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=500&color=F78F04&width=435&lines=Hello+I'm+Cem+%F0%9F%91%8B;I+am+currently+striving+to+be+a;self-taught+front-end+web+developer.;Feel+free+to+explore+my+Git-hub+page%F0%9F%A4%99)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=500&color=F78F04&width=435&lines=Hello+I'm+Cem+%F0%9F%91%8B;I+am+currently+striving+to+be+a;self-taught+web+developer.;Feel+free+to+explore+my+Git-hub+page%F0%9F%A4%99)](https://git.io/typing-svg)
 <a href="https://www.instagram.com/unwantedblack/">
   <img align="left" alt="Cem's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
