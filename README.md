@@ -32,8 +32,8 @@ hi, i'm [Cem Enes Karakus](https://www.linkedin.com/in/karakuscemenes/), a passi
 
 <h3 align="center">Done</h3>
 <p align="center">
-  <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/libft.png">
-  <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/get_next_line.png">
-  <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printf.png">
+  <a href="https://github.com/karakuscem/42-libft"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/libft.png"></a>
+  <a href="https://github.com/karakuscem/42-get-next-line><img src="https://github.com/byaliego/42-project-badges/raw/main/badges/get_next_line.png"></a>
+  <a href="https://github.com/karakuscem/42-printf"<img src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printf.png"></a>
 </p>
 
