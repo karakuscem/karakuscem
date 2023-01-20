@@ -26,11 +26,11 @@ hi, i'm [Cem Enes Karakus](https://www.linkedin.com/in/karakuscemenes/), a passi
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<p align="center">📈 42 Stats</p>
+<h1 align="center">📈 42 Stats</h1>
 
 <p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbmboyy600060fjtuqjglzzn/stats?cursusId=21&coalitionId=undefined" alt="ckarakus's 42 stats" /></a></p>
 
-<p align="center">Done</p>
+<h3 align="center">Done</h3>
 <p align="center">
   <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/libft.png">
   <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/get_next_line.png">
