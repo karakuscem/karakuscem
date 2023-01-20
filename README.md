@@ -26,14 +26,14 @@ hi, i'm [Cem Enes Karakus](https://www.linkedin.com/in/karakuscemenes/), a passi
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-📈 42 Stats
+<p align="center">📈 42 Stats</p>
 
-<p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ckarakus?1337Badge=off&42Network=off&UM6P=off" alt="ckarakus's 42 stats" /></a></p>
+<p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbmboyy600060fjtuqjglzzn/stats?cursusId=21&coalitionId=undefined" alt="ckarakus's 42 stats" /></a></p>
 
-📈 my github stats
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=karakuscem&show_icons=true&theme=transparent"></p>
-
-
-
+<p align="center">Done</p>
+<p align="center">
+  <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/libft.png">
+  <img src="https://github.com/byaliego/42-project-badges/raw/main/badges/get_next_line.png">
+  <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printf.png">
+</p>
 
