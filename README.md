@@ -32,9 +32,6 @@ hi, i'm [Cem Enes Karakus](https://www.linkedin.com/in/karakuscemenes/), a passi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karakuscem&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karakuscem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=karakuscem&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <h1 align="center">📈 42 Stats</h1>
 
 <p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clbmboyy600060fjtuqjglzzn/stats?cursusId=21&coalitionId=undefined" alt="ckarakus's 42 stats" /></a></p>
