@@ -43,6 +43,7 @@ hi, i'm [Cem Enes Karakus](https://www.linkedin.com/in/karakuscemenes/), a passi
   <a href="https://github.com/karakuscem/42-printf"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printf.png"></a>
   <a href="https://github.com/karakuscem/born2beroot"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/born2beroot-bonus.png"></a>
   <a href="https://github.com/karakuscem/42-minitalk"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minitalk-bonus.png"></a>
+  <a href="https://github.com/karakuscem/42-so_long"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_long-bonus.png"></a>
 </p>
 
 
