@@ -19,7 +19,6 @@ hi, i'm [Cem Enes Karakus](https://www.linkedin.com/in/karakuscemenes/), a passi
   
 - 💼 any freelance work? do reach, [email](mailto:karakuscemenes@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
-- 🤖 technologies that i used/using;
 
 
 ## 🌐 Socials:
