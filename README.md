@@ -15,7 +15,7 @@
 
 # 💫 About Me:
 
-hi, i'm [Cem Enes Karakus](https://www.linkedin.com/in/karakuscemenes/), a passionate developer from Turkey. i've been interested in computers since i was little, so until now i've using computer just for gaming and now i'm trying to learn programming. i'm also student of 42Istanbul which is a programming school that has intense curriculum
+hi, i'm [Cem Enes Karakus](https://www.linkedin.com/in/karakuscemenes/), a passionate developer from Turkey. i've been interested in computers since i was little, so until now i've using computer just for gaming and now i'm trying to learn programming. currently working at Allianz Turkey as Intern Back-end Developer. i'm also student of 42Istanbul which is a programming school that has intense curriculum
   
 - 💼 any freelance work? do reach, [email](mailto:karakuscemenes@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
