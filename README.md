@@ -2,12 +2,6 @@
 <a href="https://www.instagram.com/unwantedblack/">
   <img align="left" alt="Cem's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discordapp.com/users/343839421457498114">
-  <img align="left" alt="Cem's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/karakuscemenes/">
-  <img align="left" alt="Cem's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=karakuscem.karakuscem)
 
@@ -44,6 +38,7 @@ hi, i'm [Cem Enes Karakus](https://www.linkedin.com/in/karakuscemenes/), a passi
   <a href="https://github.com/karakuscem/42-minitalk"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minitalkm.png"></a>
   <a href="https://github.com/karakuscem/42-so_long"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_longm.png"></a>
   <a href="https://github.com/karakuscem/42-push_swap"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/push_swapm.png"></a>
+  <a href="https://github.com/karakuscem/philo"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/philosopherse.png"></a>
 </p>
 
 
